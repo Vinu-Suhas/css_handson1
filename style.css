@@ -1,0 +1,32 @@
+h1{
+    color: red;
+}
+h2{
+    color: red;
+    font-style: italic;
+}
+span{
+    font-weight: bold;
+}
+li{
+    color: rgb(134, 7, 7);
+}
+
+p{
+    color: rgb(134, 7, 7);
+}
+
+.li-strike{
+    text-decoration: line-through;
+}
+.li-bg{
+    background-color: yellow;
+}
+.li-italic{
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.letter-spacing{
+    letter-spacing: 5px;
+}
